@@ -1,0 +1,26 @@
+[
+  {
+    "job_id": "2fb37cd9",
+    "name": "training_job_1",
+    "duration_minutes": 441,
+    "power_draw_watts": 371,
+    "priority": 5,
+    "status": "pending",
+    "carbon_intensity_threshold": 400,
+    "submitted_at": "2025-12-03T17:32:35.543522",
+    "scheduled_for": null,
+    "emissions_avoided_kg": 0.0
+  },
+  {
+    "job_id": "288cc8fe",
+    "name": "training_job_1",
+    "duration_minutes": 194,
+    "power_draw_watts": 250,
+    "priority": 3,
+    "status": "pending",
+    "carbon_intensity_threshold": 400,
+    "submitted_at": "2025-12-03T17:45:39.149119",
+    "scheduled_for": null,
+    "emissions_avoided_kg": 0.0
+  }
+]
